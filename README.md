@@ -18,7 +18,7 @@
 
 * [Newsweek](https://github.com/Oluwadamilareolusakin/news-week-replica)
 > A replica of the official News week homepage
-#### [See a live version](https://rawcdn.githack.com/Oluwadamilareolusakin/news-week-replica/239894d031a63fbf2b740dcb5f3024a6639d64be/index.html)
+> #### [See a live version](https://rawcdn.githack.com/Oluwadamilareolusakin/news-week-replica/239894d031a63fbf2b740dcb5f3024a6639d64be/index.html)
 
 
 

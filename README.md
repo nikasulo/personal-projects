@@ -17,8 +17,7 @@
 > A CSS grid based framework you will absolutely love. I build it to accomodate for even the largest of screen sizes which is something you don't typically find. I am constantly working on it and improving it, so feedback is very much welcome!
 
 * [Newsweek](https://github.com/Oluwadamilareolusakin/news-week-replica)
-> A replica of the official News week homepage
-> #### [See a live version](https://rawcdn.githack.com/Oluwadamilareolusakin/news-week-replica/239894d031a63fbf2b740dcb5f3024a6639d64be/index.html)
+> A replica of the official News week homepage [See a live version](https://rawcdn.githack.com/Oluwadamilareolusakin/news-week-replica/239894d031a63fbf2b740dcb5f3024a6639d64be/index.html)
 
 
 

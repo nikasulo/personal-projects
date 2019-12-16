@@ -1,5 +1,6 @@
 # Personal Projects
 #### A list of all my personal and side projects
+##### They are still under work and improvements but I believe in getting feedback and suggestions as early as possible so please feel free to bring as much of that as possible :rocket:
 
 * [Eventor](https://github.com/Oluwadamilareolusakin/eventor)
 An event planning and management app that allows you create an event, manage your invite list and get invited to events by other users.

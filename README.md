@@ -2,6 +2,10 @@
 #### A list of all my personal and side projects
 ##### They are still under work and improvements but I believe in getting feedback and suggestions as early as possible so please feel free to bring as much of that as possible :rocket:
 
+* [Peexoo Calendar](https://github.com/Oluwadamilareolusakin/peexoo-calendar)
+The frontend of a page that allows you book a photographer's time or contact them.
+[Live Demo](https://peexoo-calendar.herokuapp.com) React * ES6 * SCSS * Heroku
+
 * [Eventor](https://github.com/Oluwadamilareolusakin/eventor)
 An event planning and management app that allows you create an event, manage your invite list and get invited to events by other users.
 [Live Demo](http://eventor-io.herokuapp.com/)

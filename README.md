@@ -7,6 +7,8 @@ The frontend of a page that allows you book a photographer's time or contact the
 [Live Demo](https://peexoo-calendar.herokuapp.com)
 ##### Stack: React JS |  ES6 | SCSS | Heroku
 
+...
+
 * [Eventor](https://github.com/Oluwadamilareolusakin/eventor)
 An event planning and management app that allows you create an event, manage your invite list and get invited to events by other users.
 [Live Demo](http://eventor-io.herokuapp.com/)

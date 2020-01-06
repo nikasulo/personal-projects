@@ -2,6 +2,17 @@
 #### A list of all my personal and side projects
 ##### They are still under work and improvements but I believe in getting feedback and suggestions as early as possible so please feel free to bring as much of that as possible :rocket:
 
+# NerdBase
+* [NerdBase](https://github.com/Oluwadamilareolusakin/bookstore-react-redux)
+A React Redux app that allows users manage an E-Library of Books they've read, those currently being read as well as bookmarking any progress made(Number of pages, current chapter)
+[Live Demo](https://nerdbase-io.herokuapp.com)
+##### Stack: React JS |  ES6 | SCSS | Heroku
+
+# Doers
+* [Doers](https://github.com/Oluwadamilareolusakin/javascript-to-do-list)
+A Vanilla JS app that allows users keep track of their itenary. It utilizes local storage to keep track of data
+[Live Demo](https://raw.githack.com/Oluwadamilareolusakin/javascript-to-do-list/list/dist/index.html)
+##### Stack: ES6 | SCSS | Local Storage
 
 # Peexoo Calendar
 * [Peexoo Calendar](https://github.com/Oluwadamilareolusakin/peexoo-calendar)
@@ -9,6 +20,11 @@ The frontend of a page that allows you book a photographer's time or contact the
 [Live Demo](https://peexoo-calendar.herokuapp.com)
 ##### Stack: React JS |  ES6 | SCSS | Heroku
 
+# Reactulator
+* [Reactulator](https://github.com/Oluwadamilareolusakin/reactulator-lator)
+A calculator built in React JS
+[Live Demo](https://reactulator-io.herokuapp.com)
+##### Stack: React JS |  ES6 | Heroku | Big.js
 
 # Eventor
 * [Eventor](https://github.com/Oluwadamilareolusakin/eventor)

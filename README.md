@@ -33,13 +33,6 @@ An event planning and management app that allows you create an event, manage you
 ##### Stack: Ruby on Rails | ES6 | SCSS | Heroku
 
 
-# Chipper
-* [Chipper](https://github.com/Oluwadamilareolusakin/chipper)
-A social media network for the dauntless, it allows you create a profile, follow users, have followers and share your dauntlessness with the world!
-[Live Demo](http://chipper-io.herokuapp.com/)
-##### Stack: Ruby on Rails | ES6 | SCSS | Heroku
-
-
 # The Pub
 * [The pub](https://github.com/Oluwadamilareolusakin/the-pub)
 A social networking site where you can connect with old friends, make new ones and share a whole bunch of stuff!

@@ -6,14 +6,14 @@
 * [NerdBase](https://github.com/Oluwadamilareolusakin/bookstore-react-redux)
 A React Redux app that allows users manage an E-Library of Books they've read, those currently being read as well as bookmarking any progress made(Number of pages, current chapter)
 [Live Demo](https://nerdbase-io.herokuapp.com) - 
-** Use on desktop or tablet for best experience
+#### Use on desktop or tablet for best experience
 ##### Stack: React JS |  ES6 | SCSS | Heroku
 
 # Doers
 * [Doers](https://github.com/Oluwadamilareolusakin/javascript-to-do-list)
 A Vanilla JS app that allows users keep track of their itenary. It utilizes local storage to keep track of data
 [Live Demo](https://raw.githack.com/Oluwadamilareolusakin/javascript-to-do-list/list/dist/index.html)
-** Use on desktop or tablet for best experience
+#### Use on desktop or tablet for best experience
 ##### Stack: ES6 | SCSS | Local Storage
 
 # Peexoo Calendar
@@ -26,7 +26,7 @@ The frontend of a page that allows you book a photographer's time or contact the
 * [Reactulator](https://github.com/Oluwadamilareolusakin/reactulator-lator)
 A calculator built in React JS
 [Live Demo](https://reactulator-io.herokuapp.com)
-** Use on desktop or tablet for best experience
+#### Use on desktop or tablet for best experience
 ##### Stack: React JS |  ES6 | Heroku | Big.js
 
 # Eventor

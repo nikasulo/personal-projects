@@ -2,11 +2,16 @@
 #### A list of all my personal and side projects
 ##### They are still under work and improvements but I believe in getting feedback and suggestions as early as possible so please feel free to bring as much of that as possible :rocket:
 
+
+# ShowJunkie
+* [ShowJunkie](https://github.com/Oluwadamilareolusakin/show-junkie-frontend)
+ShowJunkie is a social network for TV Shows. It allows users to browse a platora of TV Shows, add them to their favourites, and comment on them. I built the [frontend](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) in React and the [backend API](https://github.com/Oluwadamilareolusakin/show-junkie-api) in Ruby on Rails. It's a personal project I am working on and any feedback is welcome! [Live Demo](https://showjunkie.herokuapp.com)
+##### Stack: React JS | Redux| ES6 | SCSS | Heroku | TV Maze API
+
 # NerdCamp
 * [NerdCamp](https://github.com/Oluwadamilareolusakin/bookstore-react-redux)
-A React Redux app that allows users manage an E-Library of Books they've read, those currently being read as well as bookmarking any progress made(Number of pages, current chapter)
-[Live Demo](https://nerdcamp-io.herokuapp.com)
-##### Stack: React JS |  ES6 | SCSS | Heroku
+A React Redux app that allows users manage an E-Library of Books they've read, those currently being read as well as bookmarking any progress made(Number of pages, current chapter). [Live Demo](https://nerdcamp-io.herokuapp.com)
+##### Stack: React JS| Redux |  ES6 | SCSS | Heroku
 
 # Doers
 * [Doers](https://github.com/Oluwadamilareolusakin/javascript-to-do-list)

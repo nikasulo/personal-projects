@@ -49,17 +49,6 @@ A social networking site where you can connect with old friends, make new ones a
  A personal journal application that lets you jot down your important thoughts and stories. Sign up and write whatever you want to!
  ##### Stack: Ruby on Rails | ES6 | SCSS | Heroku
 
-
-# ShowJunkie
-* [ShowJunkie](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) is a social network for TV Shows. It allows users to browse a platora of TV Shows, add them to their favourites, and comment on them. I built the [frontend](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) in React and the [backend API](https://github.com/Oluwadamilareolusakin/show-junkie-api) in Ruby on Rails. It's a personal project I am working on and any feedback is welcome! [Live Demo](https://showjunkie.herokuapp.com)
-##### Stack: React JS | Redux | Ruby on Rails | ES6 | SCSS | Heroku | TV Maze API
-
-# Sphinx
-* [Sphinx](https://github.com/Oluwadamilareolusakin/sphinx)
- A CSS grid based framework you will absolutely love. I build it to accomodate for even the largest of screen sizes which is something you don't typically find. I am constantly working on it and improving it, so feedback is very much welcome!
- ##### Stack: SCSS 
-
-
 # Newsweek
 * [Newsweek](https://github.com/Oluwadamilareolusakin/news-week-replica)
  A replica of the official News week homepage. [See a live version](https://rawcdn.githack.com/Oluwadamilareolusakin/news-week-replica/239894d031a63fbf2b740dcb5f3024a6639d64be/index.html)
@@ -69,7 +58,10 @@ A social networking site where you can connect with old friends, make new ones a
 * [Youtube Video Page](https://github.com/Oluwadamilareolusakin/youtube-video-page) The UI for the Youtube Video Player page  written in HTML, SCSS and ES6. It plays well with mobile devices! [Live Demo](https://raw.githack.com/Oluwadamilareolusakin/youtube-video-page/master/index.html)
 ##### Stack: HTML | SCSS | ES6
 
-
+# Sphinx
+* [Sphinx](https://github.com/Oluwadamilareolusakin/sphinx)
+ A CSS grid based framework you will absolutely love. I build it to accomodate for even the largest of screen sizes which is something you don't typically find. I am constantly working on it and improving it, so feedback is very much welcome!
+ ##### Stack: SCSS 
 
 
 #### Follow me on [Twitter](https://twitter.com/oluwadamilareo_), [Instagram](https://instagram.com/oluwadamilare_olusakin) and [Medium](https://medium.com/@oluwadamilareo_) to see what I'm up to!

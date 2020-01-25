@@ -50,16 +50,9 @@ A social networking site where you can connect with old friends, make new ones a
  ##### Stack: Ruby on Rails | ES6 | SCSS | Heroku
 
 
-# Tech Gist
-* [Tech Gist](https://github.com/Oluwadamilareolusakin/tech-gist)
- A tech news hub built with the help of Hackernews' API, it allows users browse the top stories in tech as well as read comments on these stories.
- ##### Stack: React JS |  ES6 | SCSS | Heroku 
-
-
-# 199
-* [199](https://github.com/Oluwadamilareolusakin/members-only)
- A insider's only social media network that allows members post stories about non-members and only members can see who authored the post.
-
+# ShowJunkie
+* [ShowJunkie](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) is a social network for TV Shows. It allows users to browse a platora of TV Shows, add them to their favourites, and comment on them. I built the [frontend](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) in React and the [backend API](https://github.com/Oluwadamilareolusakin/show-junkie-api) in Ruby on Rails. It's a personal project I am working on and any feedback is welcome! [Live Demo](https://showjunkie.herokuapp.com)
+##### Stack: React JS | Redux | Ruby on Rails | ES6 | SCSS | Heroku | TV Maze API
 
 # Sphinx
 * [Sphinx](https://github.com/Oluwadamilareolusakin/sphinx)
@@ -71,6 +64,10 @@ A social networking site where you can connect with old friends, make new ones a
 * [Newsweek](https://github.com/Oluwadamilareolusakin/news-week-replica)
  A replica of the official News week homepage. [See a live version](https://rawcdn.githack.com/Oluwadamilareolusakin/news-week-replica/239894d031a63fbf2b740dcb5f3024a6639d64be/index.html)
  ##### Stack: SCSS | Bootstrap 
+ 
+ # Youtube Video Page
+* [Youtube Video Page](https://github.com/Oluwadamilareolusakin/youtube-video-page) The UI for the Youtube Video Player page  written in HTML, SCSS and ES6. It plays well with mobile devices! [Live Demo](https://raw.githack.com/Oluwadamilareolusakin/youtube-video-page/master/index.html)
+##### Stack: HTML | SCSS | ES6
 
 
 

@@ -7,6 +7,11 @@
 * [ShowJunkie](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) is a social network for TV Shows. It allows users to browse a platora of TV Shows, add them to their favourites, and comment on them. I built the [frontend](https://github.com/Oluwadamilareolusakin/show-junkie-frontend) in React and the [backend API](https://github.com/Oluwadamilareolusakin/show-junkie-api) in Ruby on Rails. It's a personal project I am working on and any feedback is welcome! [Live Demo](https://showjunkie.herokuapp.com)
 ##### Stack: React JS | Redux | Ruby on Rails | ES6 | SCSS | Heroku | TV Maze API
 
+# Mail Guy
+* [Mail Guy](https://github.com/Oluwadamilareolusakin/mail-guy) allows you send mails without login into an email client. Ever urgently needed to send an email but didn't have access to your devices? Well you can now!
+It's a personal project I am working on and any feedback and contributions are welcome! [Live Demo](https://showjunkie.herokuapp.com)
+##### Stack: Ruby on Rails | ES6 | SCSS | Heroku
+
 # NerdCamp
 * [NerdCamp](https://github.com/Oluwadamilareolusakin/bookstore-react-redux)
 A React Redux app that allows users manage an E-Library of Books they've read, those currently being read as well as bookmarking any progress made(Number of pages, current chapter). [Live Demo](https://nerdcamp-io.herokuapp.com)

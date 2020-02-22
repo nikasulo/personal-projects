@@ -9,7 +9,7 @@
 
 # Mail Guy
 * [Mail Guy](https://github.com/Oluwadamilareolusakin/mail-guy) allows you send mails without login into an email client. Ever urgently needed to send an email but didn't have access to your devices? Well you can now!
-It's a personal project I am working on and any feedback and contributions are welcome! [Live Demo](https://showjunkie.herokuapp.com)
+It's a personal project I am working on and any feedback and contributions are welcome! [Live Demo](https://mailguy.herokuapp.com)
 ##### Stack: Ruby on Rails | ES6 | SCSS | Heroku
 
 # NerdCamp
